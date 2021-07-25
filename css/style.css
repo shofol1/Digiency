@@ -173,3 +173,59 @@ hr {
 .service-card-info p {
     padding-bottom: 20px;
 }
+
+
+/* About section  */
+
+.about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.about-left {
+    width: 491px;
+}
+
+.about-left-top {
+    display: flex;
+    align-items: center;
+}
+
+.about-left-top h6 {
+    margin-right: 5px;
+    color: orange;
+}
+
+.about-left h2 {
+    padding-top: 15px;
+    font-weight: 600;
+    font-size: 49.06px;
+    line-height: 58.59px;
+    padding-bottom: 20px;
+}
+
+.about-left p {
+    color: #7B7B7B;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.about-list-items {
+    display: flex;
+    padding-top: 10px;
+    line-height: 24px;
+    align-items: center;
+}
+
+.about-list-items h6 {
+    font-size: 16px;
+}
+
+.fa-check-circle {
+    color: orange;
+    margin-right: 5px;
+    font-size: 16px;
+}
